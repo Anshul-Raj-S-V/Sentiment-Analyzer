@@ -128,11 +128,12 @@ It leverages Hugging Face’s distilbert-base-uncased-finetuned-sst-2-english mo
 
   Pie chart shows slices for each sentiment with percentages.
 
-## Demo 🎬
+## UI
 
 Here is the user interface of the Sentiment Analyzer:
 
-![Sentiment Analyzer Interface](https://raw.githubusercontent.com/Anshul-Raj-S-V/Student_Performance_Indicator/main/1.png)
+![Sentiment Analyzer Interface](https://github.com/Anshul-Raj-S-V/Sentiment-Analyzer/raw/main/1.png)
+
 
 
 ### Contributing 🤝
