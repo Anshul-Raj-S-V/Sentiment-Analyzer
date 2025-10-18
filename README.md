@@ -38,7 +38,7 @@ It leverages Hugging Face’s distilbert-base-uncased-finetuned-sst-2-english mo
 
   Architecture Highlights:
 
-            Based on BERT Transformer encoder layers
+        Based on BERT Transformer encoder layers
     
         Uses attention mechanisms to understand contextual meaning of words
 
@@ -128,7 +128,12 @@ It leverages Hugging Face’s distilbert-base-uncased-finetuned-sst-2-english mo
 
   Pie chart shows slices for each sentiment with percentages.
 
-  
+## Demo 🎬
+
+Here is the user interface of the Sentiment Analyzer:
+
+![Sentiment Analyzer Interface](https://raw.githubusercontent.com/Anshul-Raj-S-V/Student_Performance_Indicator/main/1.png)
+
 
 ### Contributing 🤝
 
