@@ -1,4 +1,4 @@
-### Sentiment Analyzer 📝💬
+## SENTIMENT ANALYZER 📝💬
 A web-based application to analyze sentiment in textual reviews using Hugging Face Transformers.
 Users can upload a CSV of reviews, and the app provides sentiment classification along with visual summaries (bar and pie charts).
 
